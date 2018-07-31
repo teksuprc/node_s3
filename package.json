@@ -1,0 +1,19 @@
+{
+  "name": "node_s3",
+  "version": "1.0.0",
+  "description": "a test for connecting to and using s3 buckets",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "s3",
+    "nodejs",
+    "test"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.283.1"
+  }
+}
